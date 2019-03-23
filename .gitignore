@@ -3,6 +3,8 @@ models/
 checkpoint
 samples
 .idea/
+msg.txt
+scrapers/praw.ini
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
